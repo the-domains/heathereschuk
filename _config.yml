@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.6787234
 color:
-  saturation: 0.493617
+  saturation: 0.612766
   brandStrength: 0.8768713972531259
-  lightness: 0.973545
+  lightness: 0.5148936
   brandColors:
     - '#16193B'
     - '#35478C'
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-  rhythmicContrast: 0.4879043
+  rhythmicContrast: 0.5851064
 layout_spectrum: 0.8765957
 name: heathereschuk
