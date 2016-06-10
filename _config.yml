@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.6787234
 color:
   saturation: 0.612766
   brandStrength: 0.8768713972531259
@@ -22,5 +21,6 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
   rhythmicContrast: 0.5851064
-layout_spectrum: 0.8765957
+typography_spectrum: 0.6787234
+layout_spectrum: 0.3617021
 name: heathereschuk
