@@ -1,14 +1,26 @@
-layout_spectrum: 0.6302057253196836
-typography_spectrum: 0.5794137758202851
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6787234
 color:
+  saturation: 0.493617
   brandStrength: 0.8768713972531259
-  lightness: 0.9735449776053429
-  saturation: 0.19015421625226736
-  rhythmicContrast: 0.48790424573235214
+  lightness: 0.973545
   brandColors:
     - '#16193B'
     - '#35478C'
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+  rhythmicContrast: 0.4879043
+layout_spectrum: 0.8765957
 name: heathereschuk
