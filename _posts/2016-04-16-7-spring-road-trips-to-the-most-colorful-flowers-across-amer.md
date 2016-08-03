@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T19:33:56.380Z'
+datePublished: '2016-08-03T19:39:01.091Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
@@ -17,21 +17,14 @@ keywords:
   - parkway
   - route
 related: []
-author:
-  - name: Kristy Wright-Schell
-    url: 'http://www.standuppaddlevancouver.com'
+author: []
 via: {}
-dateModified: '2016-08-03T19:33:56.041Z'
+dateModified: '2016-08-03T19:39:00.636Z'
 title: '@ the mountain top'
 app_links: []
 publisher:
-  name: the end is the beginning
-description: >-
-  There are many clichés about spring, but their ubiquity doesn't diminish how
-  beautiful the changing of the seasons can be. If you need a reminder for how
-  great this season can be, we've got seven road trips across the United States
-  that are perfect for stopping and smelling the roses - and the poppies,
-  bluebonnets and many other wildflowers.
+  name: heather e
+description: 'transitions are an interesting place to be in. '
 inLanguage: en
 inNav: false
 starred: false
@@ -40,4 +33,6 @@ _type: MediaObject
 
 ---
 # @ the mountain top
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff946df7-24bf-4aa2-a7f3-a170291ee075.jpg)
+![the end is the beginning](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff946df7-24bf-4aa2-a7f3-a170291ee075.jpg)
+
+transitions are an interesting place to be in.
