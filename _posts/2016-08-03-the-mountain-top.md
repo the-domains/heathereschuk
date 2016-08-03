@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-03T20:11:04.760Z'
+datePublished: '2016-08-03T20:20:05.432Z'
+sourcePath: _posts/2016-08-03-the-mountain-top.md
 author: []
 via: {}
-dateModified: '2016-08-03T20:10:32.822Z'
+dateModified: '2016-08-03T20:20:04.664Z'
 title: ''
 publisher:
   name: heather e
-  url: ''
+  url: 'https://www.instagram.com/hottie_galore/'
 description: '@ the mountain top'
 starred: false
-sourcePath: _posts/2016-08-03-the-mountain-top.md
 inFeed: true
 hasPage: true
 inNav: false
