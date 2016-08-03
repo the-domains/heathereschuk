@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T19:45:09.692Z'
+datePublished: '2016-08-03T19:53:46.592Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T19:45:09.215Z'
+dateModified: '2016-08-03T19:53:45.907Z'
 title: '@ the mountain top'
 app_links: []
 publisher:
