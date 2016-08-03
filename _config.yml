@@ -1,18 +1,18 @@
-typography_spectrum: 0.6787234
+typography_spectrum: 0.011407281970605254
 content_rating:
   adult: true
 color:
-  saturation: 0.612766
-  brandStrength: 0.8768713972531259
-  lightness: 0.5148936
+  saturation: 0.7449249965138733
+  brandStrength: 0.7772306906990707
+  lightness: 0.3100160793401301
   brandColors:
-    - '#010409'
-    - '#00FFFF'
-    - '#01354B'
     - '#FFFFFF'
-    - '#0377AA'
-  rhythmicContrast: 0
-layout_spectrum: 1
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.9716755005065352
+layout_spectrum: 0.9653900279663503
 author:
   name: heather e
   email: heather@heathereschuk.com
