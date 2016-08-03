@@ -24,3 +24,5 @@ color:
   rhythmicContrast: 0
 layout_spectrum: 1
 name: heathereschuk
+content_rating:
+  adult: true
