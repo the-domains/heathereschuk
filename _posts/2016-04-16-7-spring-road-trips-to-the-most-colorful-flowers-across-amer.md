@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T20:02:19.084Z'
+datePublished: '2016-08-03T20:04:46.936Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
@@ -19,13 +19,13 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T20:02:18.555Z'
-title: '@ the mountain top'
+dateModified: '2016-08-03T20:04:46.463Z'
+title: adventures of hottie galore
 app_links: []
 publisher:
   name: heather e
   url: 'https://www.instagram.com/hottie_galore/'
-description: transitions are an interesting place to be in
+description: '@ the mountain top'
 inLanguage: en
 inNav: false
 starred: false
@@ -35,6 +35,6 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc2324d7-d733-4f19-973c-1151d19f5e52.jpg)
 
-# @ the mountain top
+@ the mountain top
 
 transitions are an interesting place to be in
