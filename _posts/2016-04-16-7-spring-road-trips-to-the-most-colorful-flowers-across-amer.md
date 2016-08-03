@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T19:31:42.353Z'
+datePublished: '2016-08-03T19:33:56.380Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
@@ -17,16 +17,15 @@ keywords:
   - parkway
   - route
 related: []
-author: []
+author:
+  - name: Kristy Wright-Schell
+    url: 'http://www.standuppaddlevancouver.com'
 via: {}
-dateModified: '2016-08-03T19:31:41.573Z'
-title: At the mountain top
+dateModified: '2016-08-03T19:33:56.041Z'
+title: '@ the mountain top'
 app_links: []
 publisher:
-  url: 'http://mashable.com'
-  name: Mashable
-  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
-  domain: mashable.com
+  name: the end is the beginning
 description: >-
   There are many clichés about spring, but their ubiquity doesn't diminish how
   beautiful the changing of the seasons can be. If you need a reminder for how
@@ -40,5 +39,5 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# At the mountain top
+# @ the mountain top
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff946df7-24bf-4aa2-a7f3-a170291ee075.jpg)
