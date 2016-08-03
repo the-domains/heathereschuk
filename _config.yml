@@ -1,16 +1,6 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.6787234
+content_rating:
+  adult: true
 color:
   saturation: 0.612766
   brandStrength: 0.8768713972531259
@@ -23,6 +13,20 @@ color:
     - '#0377AA'
   rhythmicContrast: 0
 layout_spectrum: 1
-name: heathereschuk
-content_rating:
-  adult: true
+author:
+  name: heather e
+  email: heather@heathereschuk.com
+name: heather eschuk
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: live life now
