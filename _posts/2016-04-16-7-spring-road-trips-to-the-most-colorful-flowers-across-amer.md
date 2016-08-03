@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T19:53:46.592Z'
+datePublished: '2016-08-03T19:56:21.866Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T19:53:45.907Z'
+dateModified: '2016-08-03T19:56:21.533Z'
 title: '@ the mountain top'
 app_links: []
 publisher:
@@ -32,7 +32,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc2324d7-d733-4f19-973c-1151d19f5e52.jpg)
+
 # @ the mountain top
-![the end is the beginning](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff946df7-24bf-4aa2-a7f3-a170291ee075.jpg)
 
 transitions are an interesting place to be in
