@@ -1,4 +1,4 @@
-typography_spectrum: 0.9331792604643852
+typography_spectrum: 0.6102773156017065
 content_rating:
   adult: true
 color:
@@ -12,7 +12,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
   rhythmicContrast: 0.560952055035159
-layout_spectrum: 0.06294635613448918
+layout_spectrum: 0.10142481420189142
 author:
   name: heather e
   email: heather@heathereschuk.com
