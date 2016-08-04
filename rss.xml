@@ -4,7 +4,7 @@
         <description><![CDATA[live life now]]></description>
         <link>https://thegrid.ai/heathereschuk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 03:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 20:31:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heathereschuk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/heathereschuk/the-mountain-top/index.html</link>
             <guid isPermaLink="false">65467d8f-3b4e-4dfd-8243-2daea06e8341</guid>
             <pubDate>Thu, 04 Aug 2016 03:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life Is A Balancing Act]]></title>
+            <description><![CDATA[<article><h1>Life Is A Balancing Act</h1><p>“...you take a block from the bottom and you put it on top, you take a block from the middle and you put it on top...you keep building that tower putting blocks on top. It teeters and it totters, but you don't give up; it weebles and it wobbles, but you build it on up...”</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb62923-8d8c-4e7d-ac37-c186cf806c5f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/heathereschuk/life-is-a-balancing-act/index.html</link>
+            <guid isPermaLink="false">2c947815-6153-44fc-b5c3-a467c1fbc9d9</guid>
+            <pubDate>Thu, 04 Aug 2016 20:31:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
