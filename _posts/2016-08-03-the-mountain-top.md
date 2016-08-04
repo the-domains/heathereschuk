@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-04T03:22:18.284Z'
+datePublished: '2016-08-04T03:32:52.201Z'
 sourcePath: _posts/2016-08-03-the-mountain-top.md
 author: []
 via: {}
-dateModified: '2016-08-04T03:22:17.628Z'
+dateModified: '2016-08-04T03:32:51.754Z'
 title: ''
 publisher:
   name: heather e
@@ -20,7 +20,7 @@ _type: Article
 ---
 ![@ the mountain top](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc315273-64d1-4038-80a3-6729dd7d9809.jpg)
 
-The beginning of the end began here on top of the SUP Vancouver van.
+**The beginning of the end began here on top of the SUP Vancouver van.**
 
 * After 18 hrs in 3 days of being on the water, assisting & capturing GoPro footage for SUP Acro Yoga classes at Wanderlust Whistler
 * After spending hours with my SUP Sister, Kristy Wright-Schell and being reminded of our epically empowering friendship
