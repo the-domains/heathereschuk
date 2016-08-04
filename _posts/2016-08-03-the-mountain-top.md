@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-04T03:21:24.277Z'
+datePublished: '2016-08-04T03:22:18.284Z'
 sourcePath: _posts/2016-08-03-the-mountain-top.md
 author: []
 via: {}
-dateModified: '2016-08-04T03:21:23.708Z'
+dateModified: '2016-08-04T03:22:17.628Z'
 title: ''
 publisher:
   name: heather e
