@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-04T03:32:52.201Z'
+datePublished: '2016-08-04T20:31:16.538Z'
 sourcePath: _posts/2016-08-03-the-mountain-top.md
 author: []
 via: {}
-dateModified: '2016-08-04T03:32:51.754Z'
+dateModified: '2016-08-04T20:31:16.409Z'
 title: ''
 publisher:
   name: heather e
@@ -13,7 +13,7 @@ starred: true
 inFeed: true
 hasPage: true
 inNav: false
-url: the-mountain-top/index.html
+url: the-beginning-of-the-end/index.html
 _context: 'http://schema.org'
 _type: Article
 
